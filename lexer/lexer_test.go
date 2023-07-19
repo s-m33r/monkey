@@ -1,5 +1,3 @@
-// TODO: update with extended tests
-
 package lexer
 
 import (
